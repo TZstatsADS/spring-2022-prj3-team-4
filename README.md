@@ -7,11 +7,11 @@ Term: Spring 2022
 
 + Team ##
 + Team members
-	+ team member 1
-	+ team member 2
-	+ team member 3
-	+ team member 4
-	+ team member 5
+	+ Vachasvi Vedula
+	+ Weixun Qian
+	+ Ran Zhang
+	+ Jiazheng Chen
+	+ Sharon Meng
 
 + Project summary: In this project, we created ...
 	
