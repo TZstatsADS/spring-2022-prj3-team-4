@@ -7,7 +7,7 @@ Term: Spring 2022
 
 + Team ##
 + Team members
-	+ Vachasvi Vedula
+	+ Varchasvi Vedula
 	+ Weixun Qian
 	+ Ran Zhang
 	+ Jiazheng Chen
