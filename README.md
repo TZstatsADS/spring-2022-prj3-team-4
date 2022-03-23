@@ -21,7 +21,7 @@ Our final model uses a transfer learning approach with two steps. We first train
 	
 **Contribution statement**: ([default](doc/a_note_on_contributions.md)) Everyone in the group picked  different classifiers to try and we ultimately picked the best performing one as a team. The contributions were as follows:
 
-+ Varchasvi Vedula - Wrote all of [main.ipynb](doc/main.ipynb) (code + explanations) except the code is section 2.0. Implemented transfer learning-based model (74% accuracy) with cross validation and hyperparameter turning,  model evaluation, and final day model testing. Tried a sample weight based weak-supervised learning method.
++ Varchasvi Vedula - Wrote all of [main.ipynb](doc/main.ipynb) (code + explanations) except 2 snippets of code in section 2.0. Implemented transfer learning-based model (74% accuracy) with cross validation and hyperparameter turning,  model evaluation, and final day model testing. Tried a sample weight based weak-supervised learning method.
 + Weixun Qian - Presenter. Trained a CNN-based model, deviced and used our optimal weak-supervised learning technique to make use of noisy labels.
 + Ran Zhang - Trained a linear SVM model and a CNN-based model. Edited most description in Github repo.
 + Jiazheng Chen - Trained a CNN-based model and tried Weixun's weak-supervised learning technique.
