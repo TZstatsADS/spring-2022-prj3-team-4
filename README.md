@@ -13,7 +13,7 @@ Term: Spring 2022
 	+ Jiazheng Chen jc5656@columbia.edu
 	+ Sharon Meng zm2380@columbia.edu
 
-+ Project summary: In this project, we created ...
++ Project summary: In this project, we carried out model evaluation and selection for predictive analytics on an imbalanced image data. We created two architectures, CNN and Transfer learning. 
 	
 **Contribution statement**: ([default](doc/a_note_on_contributions.md)) All team members contributed equally in all stages of this project. All team members approve our work presented in this GitHub repository including this contributions statement. 
 
