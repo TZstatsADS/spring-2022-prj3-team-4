@@ -7,13 +7,15 @@ Term: Spring 2022
 
 + Team 04
 + Team members
-	+ Varchasvi Vedula
-	+ Weixun Qian
-	+ Ran Zhang
-	+ Jiazheng Chen
-	+ Sharon Meng
+	+ Varchasvi Vedula vvv2108@columbia.edu
+	+ Weixun Qian wq2157@columbia.edu
+	+ Ran Zhang rz2568@columbia.edu
+	+ Jiazheng Chen jc5656@columbia.edu
+	+ Sharon Meng zm2380@columbia.edu
 
-+ Project summary: In this project, we created classifiers for low-resolution images with noisy labels using semi-supervised learning techniques. Our final model uses a transfer learning approach with two steps. We first train a classifier on a subset of the data which we know for a fact has clean labels, make predictions with that model on the rest of that data, keep the noisy data where the predictions matched the noisy labels, and used that in conjunction with clean data to train the final classifier. Our model delivers a much better performance than the baseline logistic regression and takes approximately **0.03-0.05 seconds** to classify a new image with about **74% validation accuracy**.
+
++ Project summary: In this project, we carried out model evaluation and selection for predictive analytics on image data with noisy labels using semi-supervised learning techniques. We created two architectures, CNN and Transfer learning. For both CNN and Transfer Learning, model I was built on noisy dataset, and model II was built using label-correction dataset.
+
 	
 **Contribution statement**: ([default](doc/a_note_on_contributions.md)) Everyone in the group picked  different classifiers to try and we ultimately picked the best performing one as a team. The contributions were as follows:
 
