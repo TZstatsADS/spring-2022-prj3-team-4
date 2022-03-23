@@ -7,11 +7,11 @@ Term: Spring 2022
 
 + Team 04
 + Team members
-	+ Varchasvi Vedula
-	+ Weixun Qian
-	+ Ran Zhang
-	+ Jiazheng Chen
-	+ Sharon Meng
+	+ Varchasvi Vedula vvv2108@columbia.edu
+	+ Weixun Qian wq2157@columbia.edu
+	+ Ran Zhang rz2568@columbia.edu
+	+ Jiazheng Chen jc5656@columbia.edu
+	+ Sharon Meng zm2380@columbia.edu
 
 + Project summary: In this project, we created ...
 	
