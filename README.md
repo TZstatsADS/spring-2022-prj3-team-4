@@ -18,6 +18,8 @@ Term: Spring 2022
 
 Our final model uses a transfer learning approach with two steps. We first train a classifier on a subset of the data which we know for a fact has clean labels, make predictions with that model on the rest of that data, keep the noisy data where the predictions matched the noisy labels, and used that in conjunction with clean data to train the final classifier. Our model delivers a much better performance than the baseline logistic regression and takes approximately **0.03-0.04 seconds** to classify a new image with about **75% validation accuracy**.
 
+![plot](./figs/TransferLearningModel)
+
 	
 **Contribution statement**: ([default](doc/a_note_on_contributions.md)) Everyone in the group picked  different classifiers to try and we ultimately picked the best performing one as a team. The contributions were as follows:
 
